@@ -2,12 +2,6 @@
 
 Software engineering student / developer.
 
-## About
-
-- Building small apps and tools while learning software engineering.
-- Interested in clean code, backend development, and practical automation.
-- Currently improving my programming fundamentals and GitHub workflow.
-
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
